@@ -1,0 +1,27 @@
+body{
+	background-image :url(images.jpg); margin: 0; pudding: 0;
+	font: 15px/25px Consolas, Calibri, serif;}
+a{text-decoration: none;}
+
+div.mid{width: 1000px; margin: 0 auto;}
+div.header{background-image : url(bg.jpg);}
+div.footer{margin: 20px; text-align: center;}
+
+div.topmenu{float: right; height: 70px; line-height: 70px; 
+			text-shadow: 10px 5px 3px rgba(0,0,0.5,0.5);		
+			font-size: 34px; color:#700000;} 
+			
+div.menu{background-image : url(dr.jpg); height: 25px;		
+		border: 3px groove #900000;		
+		border-left: none; border-right: none;}		
+
+div.footer{margin: 0 auto; height: 30px; line-height: 30px;		
+		  background-image : url(dr.jpg); height: 25px;	
+		  border: 3px groove #900000;		
+		  border-left: none; border-right: none; margin-top: 30px;}
+		  
+div.go {background: #991010; float: left;
+		outline: 2px groove #400000; 
+		margin-left:5px; 
+		padding: 10px;  padding-left: 20px; padding-right: 20px; }
+		
